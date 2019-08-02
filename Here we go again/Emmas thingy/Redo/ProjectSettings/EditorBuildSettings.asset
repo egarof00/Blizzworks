@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Cutscene.unity
+    guid: a1f26910783cc8f4f86ff838ebfa5f31
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: 4dbffa2bba493c54cb20104181411590
+  m_configObjects: {}
